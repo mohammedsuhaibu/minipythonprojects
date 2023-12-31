@@ -1,2 +1,2 @@
-# minipythonprojects
-mini python projects I have worked on since I started learning python
+# Mini Python Projects
+Mini projects I have worked on since I started learning python.
